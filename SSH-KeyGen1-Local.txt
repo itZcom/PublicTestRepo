@@ -1,0 +1,22 @@
+$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/Administrator.ZCOMSYSTEMS/.ssh/id_
+rsa): PrimeKey
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in PrimeKey.
+Your public key has been saved in PrimeKey.pub.
+The key fingerprint is:
+dd:90:6e:07:af:f6:6a:9f:f1:b4:1c:ce:37:14:c3:62 Administrator@SVN
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|           .     |
+|          +   .  |
+|         o = E + |
+|        S + = . o|
+|         . o   . |
+|          o . +  |
+|         ... O +.|
+|         ..o+ *..|
++-----------------+
